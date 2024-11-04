@@ -7,13 +7,13 @@
 
 
 body{
-    background: url(/web/im/drugo.webp);
+    background: url(../web/im/drugo.webp);
     background-size: cover;
 }
 
 header{
    margin:0 ;
-   background:url(/web/im/drugo\ –\ kopija.webp);
+   background:url(../web/im/drugo\ –\ kopija.webp);
    border: 1px solid black;
    background-size: cover;
 }
